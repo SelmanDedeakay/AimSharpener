@@ -11,4 +11,6 @@ In the "cheat" folder, you will see a little script that does auto-click the but
 
 Script doesn't support the Hard Mode.
 
+Possibly, you have to install OpenCV on your PC. (You can use "pip install opencv-python" command on cmd if you have pip installer on your PC.)
+
 And finally, script is created by using PyAutoGUI.
