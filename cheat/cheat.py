@@ -2,14 +2,9 @@ import pyautogui
 import time
 from tkinter import *
 import keyboard
-
 buttonimages = ["click_black.png","click_purple.PNG","click_darkblue.png","click_green.PNG",
-                "click_red.png","click_blue.png","hardmode_darkblue.PNG","hardmode_blue.PNG",
-                "hardmode_green.PNG","hardmode_black.PNG","hardmode_purple.PNG","hardmode_red.PNG",
-                "click_starting.PNG","hardmode_starting.PNG","click_black1.png","click_purple1.PNG",
-                "click_darkblue1.png","click_green1.PNG","click_red1.png","click_blue1.png",
-                "hardmode_darkblue.PNG","hardmode_blue.PNG","hardmode_green.PNG","hardmode_black.PNG",
-                "hardmode_purple.PNG","hardmode_red.PNG"]
+                "click_red.png","click_blue.png","click_starting.PNG","click_black1.png","click_purple1.PNG",
+                "click_darkblue1.png","click_green1.PNG","click_red1.png","click_blue1.png"]
 
 cheaterapp = Tk()
 cheaterapp.title("Cheat-AimSharpener")
